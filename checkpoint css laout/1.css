@@ -1,0 +1,322 @@
+#a{
+    color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+display: flex;
+justify-content: space-around;
+display: flex;
+}
+#z{
+    display: flex;
+
+}
+
+
+#a{
+    height: px;
+    border: 1px solid rgb(65, 225, 217)
+
+}
+#r{
+    font-style: inherit;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    color: aqua;
+
+}
+#t{
+    display: flex;
+    flex-direction: row;
+  
+    justify-content: space-between;
+    color: dimgrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#box1{
+    width: 400px;
+    height: 400px;
+background-color: rgb(0, 255, 149);
+}
+#box2{
+    width: 400px;
+    height: 400px;
+background-color: rgb(14, 118, 255);
+}
+#box3{
+    width: 400px;
+    height: 400px;
+background-color: rgb(30, 31, 31);
+}
+#u{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly
+}
+#i{
+    color: rgb(250, 250, 250);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: xx-large;
+} 
+#o{
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+#p{
+    color: rgb(250, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+
+}
+#q{
+color: darkturquoise;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: x-large
+}
+#s{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between ;
+
+
+}
+#s{
+    height: px ;
+    border: 1px solid rgb(0, 255, 200)
+    
+}
+#box4{
+    height: 600px;
+    border: 1px solid rgb(0, 247, 255)
+    
+    
+  
+}
+#box4{
+    background-color: rgb(217, 255, 242);
+}
+#g{
+    color: rgb(114, 114, 114);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#gg{
+    color: rgb(97, 97, 97);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#h{
+    color: rgb(0, 182, 182);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+#h{
+    align-content: center;
+    width: 500px;
+    height: 500px;
+background-color: rgb(231, 248, 248);
+}
+
+
+
+#k{
+display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 400px;
+    align-content: center;
+    justify-content: space-between;
+}
+#cc{
+    justify-content: space-between;
+display: flex;
+}
+#vv{
+    justify-content: space-around;
+    display: flex;
+    }
+
+    #cc{
+        position: relative;
+      left: 2px;
+      bottom: 250px;
+      align-content:space-between}
+    
+#b{
+    display: flex;
+justify-content: space-between;
+    position: relative;
+    bottom: 320px;
+    left: 2px;
+}
+#n{
+    display: flex;
+    justify-content: space-between;
+}
+#bn{
+   
+    display: flex;
+    justify-content: space-between;
+position: relative;
+top: 75px;
+
+}
+#bg{
+display: flex;
+justify-content: space-between;
+position: relative;
+bottom: 100px;
+
+
+}
+#gb{
+color: aqua;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: xx-large;
+
+
+}
+#fv{
+    font-size: xx-large;
+}
+#siu{
+    color: dimgray;
+}
+#siuu{
+    color: dimgray;
+
+}
+#siuuu{
+    color: dimgray;
+}
+#siuo{
+    color: dimgray;
+}
+#siu:hover{
+    color: aqua;
+}
+#siuu:hover{
+    color: aqua;
+}
+#siuuu:hover{
+    color: aqua;
+}
+#siuo:hover{
+    color: aqua;
+}
+#q{
+    position: relative;
+    bottom: 40px;
+}
+
+#t:active{
+font-size: xx-large;
+color: rgb(255, 0, 234);
+}
+#aaa{
+ 
+    position: relative;
+    right:25px;
+}
+#eee{
+    position: relative;
+    left: 25px;
+}
+#aaa:hover{
+    color: chartreuse;
+    
+}
+#zzz:hover{
+color: chartreuse;
+
+}
+#eee:hover{
+    color: chartreuse;
+}
+#fe:hover{
+    color: chartreuse;
+    
+}
+#roro:hover{
+    color: chartreuse;
+}
+#hhhh:hover{
+    color: aqua;
+}
+#hhh:hover{
+    color: aqua;
+}
+#q:hover{
+    color: chartreuse;
+}
+#g:hover{
+color: chartreuse;
+}
+#gg:hover{
+    color: chartreuse;
+}
+#ff44{
+position: relative;
+left: 800px;
+bottom:70px;
+
+}
+#ff44{
+    height: 300px;
+    border: 0px solid rgb(0, 247, 255);
+    background-color: aliceblue;
+  width: 300px;
+}
+#jaidi{
+position: relative;
+bottom: 450px;
+left: 800px;
+height: 250px;
+width: 250px;
+background-color: aliceblue;
+}
+#gg{
+position: relative;
+bottom: 300px;
+
+
+}
+#e3{
+    position: relative;
+bottom: 300px;
+}
+#e0{
+position: relative;
+right: 30px;
+
+}
+#e1{
+    position: relative;
+    right: 30px;
+}
+
+#poland:hover{
+color: aqua;
+
+}
+#war:hover{
+color: aqua;
+font-size: x-large;
+}
+#bar:hover{
+    color: aqua;
+    
+}
+#mun:hover{
+    color: aqua;
+}
+#is:hover{
+    color: aqua;
+}
+#rom:hover{
+    color: aqua;
+}
+#bol:hover{
+    color: aqua;
+}
